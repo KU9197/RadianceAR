@@ -443,60 +443,6 @@
       "components": {},
       "name": "UI Element (1)",
       "order": 0.025070176746509132
-    },
-    "72d525f7-357f-4688-8713-27e5f8f809e1": {
-      "id": "72d525f7-357f-4688-8713-27e5f8f809e1",
-      "position": [
-        0.16970846771817008,
-        3.793525010443343,
-        0.22614658174615695
-      ],
-      "rotation": [
-        2.0816681711721688e-17,
-        -1.0691058840368783e-50,
-        -3.794707603699266e-18,
-        1
-      ],
-      "scale": [
-        1.2,
-        0.25,
-        0.25
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 2.5,
-        "height": 2.5
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Reminder3b.png"
-        },
-        "side": "double",
-        "blending": "normal",
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "opacity": 1,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "opacityMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "depthTest": true,
-        "depthWrite": true,
-        "wireframe": false,
-        "forceTransparent": false
-      },
-      "components": {},
-      "name": "Plane",
-      "order": 0.6532282458017004
     }
   },
   "historyVersion": "mhl1k5tn"
