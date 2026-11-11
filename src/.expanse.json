@@ -249,9 +249,9 @@
     "f9357ed9-57b6-49a6-acf8-124fc0c5fd67": {
       "id": "f9357ed9-57b6-49a6-acf8-124fc0c5fd67",
       "position": [
-        -0.002929247447589628,
-        -0.16270030917492728,
-        -0.5922169712410865
+        0,
+        -0.03,
+        0.15
       ],
       "rotation": [
         0,
@@ -260,189 +260,24 @@
         1
       ],
       "scale": [
-        8.600000000000005,
-        8.5,
-        9
+        7.5,
+        7.5,
+        7.5
       ],
       "parentId": "93db3a7c-6685-4c13-8084-ef8add915ecf",
       "components": {},
       "gltfModel": {
         "src": {
           "type": "asset",
-          "asset": "assets/sunglasses_1.glb"
+          "asset": "assets/RadianceNEW.glb"
         },
         "animationClip": "",
         "loop": true
       },
-      "name": "ray-ban_sunglasses.glb",
-      "order": -1.0949821516713323
-    },
-    "0c777776-bfed-469a-9ad9-4cacf3c40c27": {
-      "id": "0c777776-bfed-469a-9ad9-4cacf3c40c27",
-      "position": [
-        0.8978546702376874,
-        0.28106682929910143,
-        -0.1683078999838754
-      ],
-      "rotation": [
-        3.469446951953615e-18,
-        -1.0408340855860846e-17,
-        -3.035766082959413e-18,
-        1
-      ],
-      "scale": [
-        0.9999999999999999,
-        0.9999999999999998,
-        0.9999999999999999
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 0.5,
-        "height": 0.2
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "side": "front",
-        "depthTest": true,
-        "depthWrite": true,
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Textures/test6.png"
-        },
-        "opacity": 1,
-        "opacityMap": "",
-        "blending": "normal",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "wireframe": false,
-        "forceTransparent": false,
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff"
-      },
-      "parentId": "7a0827c0-51b7-42ba-8081-309452015504",
-      "components": {},
-      "name": "Empty Object",
-      "order": -1.0465920748841013,
-      "hidden": true
-    },
-    "92fb244d-e034-461c-8698-f72d53787fee": {
-      "id": "92fb244d-e034-461c-8698-f72d53787fee",
-      "position": [
-        -0.2101558893918991,
-        -0.9888798594474792,
-        -0.13074387609958737
-      ],
-      "rotation": [
-        -7.80625564189563e-18,
-        1.3877787807814454e-17,
-        -1.0842021724855044e-18,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1.0000000000000002
-      ],
+      "name": "RadianceNEW.glb",
+      "order": -1.0949821516713323,
       "geometry": null,
-      "material": null,
-      "parentId": "0c777776-bfed-469a-9ad9-4cacf3c40c27",
-      "components": {},
-      "name": "UI Element"
-    },
-    "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5": {
-      "id": "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5",
-      "position": [
-        -0.9678133913338747,
-        0.21111294424040983,
-        -0.006995216977885292
-      ],
-      "rotation": [
-        6.93889390390723e-18,
-        -1.1709383462843448e-17,
-        -3.876022766635678e-18,
-        1
-      ],
-      "scale": [
-        1.0000000000000002,
-        1,
-        0.9999999999999999
-      ],
-      "geometry": {
-        "type": "plane",
-        "width": 0.5,
-        "height": 0.2
-      },
-      "material": {
-        "type": "basic",
-        "color": "#ffffff",
-        "side": "front",
-        "depthTest": true,
-        "depthWrite": true,
-        "textureSrc": {
-          "type": "asset",
-          "asset": "assets/Textures/test6.png"
-        },
-        "opacity": 1,
-        "opacityMap": "",
-        "blending": "normal",
-        "repeatX": 1,
-        "repeatY": 1,
-        "offsetX": 0,
-        "offsetY": 0,
-        "wireframe": false,
-        "forceTransparent": false,
-        "roughness": 0.5,
-        "metalness": 0.5,
-        "emissiveIntensity": 0,
-        "roughnessMap": "",
-        "metalnessMap": "",
-        "emissiveMap": "",
-        "emissiveColor": "#ffffff"
-      },
-      "parentId": "7a0827c0-51b7-42ba-8081-309452015504",
-      "components": {},
-      "name": "Empty Object (1)",
-      "order": -1.0465920748841013,
-      "ui": {
-        "image": {
-          "type": "asset",
-          "asset": "assets/Textures/test6.png"
-        }
-      },
-      "hidden": true
-    },
-    "80270090-4486-4298-a8b9-661981611a60": {
-      "id": "80270090-4486-4298-a8b9-661981611a60",
-      "position": [
-        -0.2101558893918991,
-        -0.9888798594474792,
-        -0.13074387609958737
-      ],
-      "rotation": [
-        -7.80625564189563e-18,
-        1.3877787807814454e-17,
-        -1.0842021724855044e-18,
-        1
-      ],
-      "scale": [
-        1,
-        1,
-        1.0000000000000002
-      ],
-      "geometry": null,
-      "material": null,
-      "parentId": "a1b2fe5a-083e-43bd-91c8-b99ab4fcf7d5",
-      "components": {},
-      "name": "UI Element (1)",
-      "order": 0.025070176746509132
+      "material": null
     }
   },
   "historyVersion": "mhl1k5tn"
